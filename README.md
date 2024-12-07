@@ -7,7 +7,7 @@ FIGlet is a computer program that generates text banners, in a variety of typefa
 ### Install
 npm install figlet
 
-### Simple usage
+### Simple usage code
 
 "var figlet = require("figlet");
 
@@ -21,5 +21,4 @@ figlet("Hello World!!", function (err, data) {
 });"
 
 ### Links
-
-For get more information please visit : https://www.npmjs.com/package/figlet
+For more information, please visit: https://www.npmjs.com/package/figlet
