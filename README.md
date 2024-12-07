@@ -2,12 +2,12 @@
 
 FIGlet is a computer program that generates text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters (see ASCII art). The name derives from "Frank, Ian and Glenn's letters
 
-# FIGLET INSTALL Command
+## FIGLET INSTALL Command
 
-## Install
+### Install
 npm install figlet
 
-## Simple usage
+### Simple usage
 
 "var figlet = require("figlet");
 
